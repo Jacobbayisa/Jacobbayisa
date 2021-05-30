@@ -10,11 +10,11 @@
 ####  -Javascript
 
 ### <image src ="https://user-images.githubusercontent.com/28535677/120089504-ff0d8380-c0c8-11eb-9d40-f37425b770ca.png" width="20px"/>  React
-### <image src ="https://user-images.githubusercontent.com/28535677/120089785-780dda80-c0cb-11eb-9559-2824d9db98b2.png"  width ="20px"/> -Redux
+### <image src ="https://user-images.githubusercontent.com/28535677/120089785-780dda80-c0cb-11eb-9559-2824d9db98b2.png"  width ="20px"/> Redux
 ### <image src =" "  width ="20px"/> -Node.js
-### <image src = " " width ="20px" /> -MySQl
-### <image src = "https://user-images.githubusercontent.com/28535677/120089792-7f34e880-c0cb-11eb-9dfc-5ab853a6af3e.png" width = "20px" />  -MongoDB
-### <image src =" " width ="20px" />  -CSS, SASS
+### <image src = "https://user-images.githubusercontent.com/28535677/120089916-a213cc80-c0cc-11eb-9355-cdb86467d894.png" width ="20px" /> MySQl
+### <image src = "https://user-images.githubusercontent.com/28535677/120089792-7f34e880-c0cb-11eb-9dfc-5ab853a6af3e.png" width = "20px" />  
+### <image src ="https://user-images.githubusercontent.com/28535677/120090002-2bc39a00-c0cd-11eb-98a3-52a8de68e334.png" width ="20px" />  -CSS, SASS
 
 ### Here are one of the projects I have done and working on
 ### :writing_hand: Currently as March 29, 2021 I am working on Ecommerce website named BlueNile
