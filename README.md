@@ -6,7 +6,7 @@
     -PHP and I have been coding for the last 5 years. 
 ## :muscle: I am proficient in 
 ####  -Javascript
-<image src ="https://user-images.githubusercontent.com/28535677/120089504-ff0d8380-c0c8-11eb-9d40-f37425b770ca.png" width="20px"/>
+
 ### <image src ="https://user-images.githubusercontent.com/28535677/120089504-ff0d8380-c0c8-11eb-9d40-f37425b770ca.png" width="20px"/>  React
 ####   -Node.js
 ####  -MySQl
