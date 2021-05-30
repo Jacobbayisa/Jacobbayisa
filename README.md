@@ -4,7 +4,7 @@
     -C++
     -Java and android Development
     -PHP and I have been coding for the last 5 years. 
-## I am proficient in 
+## :muscle: I am proficient in 
 ####  -Javascript
 ####   -Node.js
 ####  -MySQl
