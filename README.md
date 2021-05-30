@@ -1,4 +1,4 @@
-### Hi there. My Name is Jacob Bayisa. Here is About what I am working on  and short self intro👋
+### :grinning: Hi there. My Name is Jacob Bayisa. Here is About what I am working on  and short self intro👋
 ### I am A full stack web developer. I have also background in Biomedical Engineering and Health Science.
 ### Coding is one of the thing I enjoy my life and I have sel studied programming language like 
     -C++
@@ -6,6 +6,7 @@
     -PHP and I have been coding for the last 5 years. 
 ## :muscle: I am proficient in 
 ####  -Javascript
+### ![react-logo-icon](https://user-images.githubusercontent.com/28535677/120089504-ff0d8380-c0c8-11eb-9d40-f37425b770ca.png) React
 ####   -Node.js
 ####  -MySQl
 ####   -MongoDB
