@@ -27,7 +27,7 @@ ____
 ####  <image src ="https://user-images.githubusercontent.com/28535677/120091286-a09bd180-c0d7-11eb-82aa-8a3b4ba55316.png" width="20px"/> Technologies used: HTML, CSS, PHP and MySQL
 
 
-#### :broccoli::small_airplane: l Feel free to see  and browse my code. If you have any question or like how I code you can contact me by my email bayisagobu@gmail.com . Thanks for your time!! :leafy_green: :small_airplane: :broccoli:
+#### :broccoli::small_airplane: Feel free to see  and browse my code. If you have any question or like how I code you can contact me by my email bayisagobu@gmail.com . Thanks for your time!! :leafy_green: :small_airplane: :broccoli:
 
 <!--
 **Jacobbayisa/Jacobbayisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
