@@ -21,7 +21,7 @@ ___
 ## BrainFlix 
 #### - is a SPA( single page application) streaming website which is similar to  youtube. 
 #### <image src ="https://user-images.githubusercontent.com/28535677/120091286-a09bd180-c0d7-11eb-82aa-8a3b4ba55316.png" width="20px"/>  Technologies used: React and Nodejs
-
+____
 ### Library
 #### -is a final project done for Relational Database course at NTUST. It is done to show proficiency in CRUD in MySQL and PHP. It has Admin and Public Site. Admin users can add books and articles based on categories. Users can read the book in the browser or can download it in pdf format.
 ####  <image src ="https://user-images.githubusercontent.com/28535677/120091286-a09bd180-c0d7-11eb-82aa-8a3b4ba55316.png" width="20px"/> Technologies used: HTML, CSS, PHP and MySQL
