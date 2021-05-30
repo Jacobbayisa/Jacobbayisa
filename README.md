@@ -18,7 +18,7 @@ __________________
 ####  <image src ="https://user-images.githubusercontent.com/28535677/120091286-a09bd180-c0d7-11eb-82aa-8a3b4ba55316.png" width="20px"/> Technologies used: React, Nodejs, MySQL, SASS, Knex and Bookshelf
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## BrainFlix 
-#### - is a SPA( single page application) streaming website which is simalr to  youtube. 
+#### - is a SPA( single page application) streaming website which is similar to  youtube. 
 #### <image src ="https://user-images.githubusercontent.com/28535677/120091286-a09bd180-c0d7-11eb-82aa-8a3b4ba55316.png" width="20px"/>  Technologies used: React and Nodejs
 
 ### :leafy_green: :small_airplane: l Feel free to see browse my code. Thanks for your time!! :leafy_green: :small_airplane:
