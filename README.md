@@ -1,4 +1,5 @@
 
+__________________
 ###  :grinning: Hi there. Welcome to my Code Repo. My Name is Jacob Bayisa. I am a full stack web developer. I have also background in Biomedical Engineering and Health Science. Coding is one of the thing I enjoy my life and I have sel studied programming language like  C++ Java and android Development PHP and I have been coding for the last 5 years. 
 
 ##  :muscle::smirk: I am proficient in  
@@ -20,7 +21,7 @@
 #### - is a SPA( single page application) streaming website which mimics youtube. 
 #### <image src ="https://user-images.githubusercontent.com/28535677/120091286-a09bd180-c0d7-11eb-82aa-8a3b4ba55316.png" width="20px"/>  Technologies used: React and Nodejs
 
-### :four_leaf_clover: Feel free to see how I code and Thanks for your time!!
+### :leafy_green: :small_airplane: l Feel free to see browse my code. Thanks for your time!! :leafy_green: :small_airplane:
 
 <!--
 **Jacobbayisa/Jacobbayisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
