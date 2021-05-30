@@ -1,6 +1,6 @@
 
 __________________
-###  :grinning: Hi there! Welcome to my Code Repo. My Name is Jacob Bayisa. I am a full-stack web developer based in Toronto. I have also a background in Biomedical Engineering and Health Science. Coding is one of the things I enjoy in life, and I had self-thought programming language like  C++, Java and Android Development, PHP, and I have been coding for the last 5 years. 
+###  :grinning: Hi there! Welcome to my Code Repo. My Name is Jacob Bayisa. I am a full-stack web developer based in Toronto. I have also a background in Biomedical Engineering and Health Science. Coding is one of the things I enjoy in life, and I had self-thought programming language like  C++, Java and Android Development and PHP. I have been coding for the last 5 years. 
 
 ___
 ##  :muscle::smirk: I am proficient in  
