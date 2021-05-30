@@ -1,6 +1,6 @@
 
 __________________
-###  :grinning: Hi there. Welcome to my Code Repo. My Name is Jacob Bayisa. I am a full stack web developer. I have also background in Biomedical Engineering and Health Science. Coding is one of the thing I enjoy in life, and I had self thought programming language like  C++, Java and android Development, PHP, and I have been coding for the last 5 years. 
+###  :grinning: Hi there. Welcome to my Code Repo. My Name is Jacob Bayisa. I am a full-stack web developer. I have also a background in Biomedical Engineering and Health Science. Coding is one of the things I enjoy in life, and I had self-thought programming language like  C++, Java and Android Development, PHP, and I have been coding for the last 5 years. 
 
 ___
 ##  :muscle::smirk: I am proficient in  
@@ -10,17 +10,22 @@ ___
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### :collision: Here are some of the projects I have worked on
 ### BlueNile
-#### :writing_hand: Currently as March 29, 2021 I am working on Ecommerce website named BlueNile. When fully developed it will be fully functional eCommerce website with fncitonalities like browsing products and making purchase online by by pay bal and credit card. It will include functionalities like selecting item, seeing details, adding to cart, checking out and making payment.
+#### :writing_hand: Currently as of March 29, 2021, I am working on an eCommerce website named BlueNile. When fully developed it will be a fully functional eCommerce website with fncitonalities like browsing products and making a purchase online by  PayPal and credit card. It will include functionalities like selecting an item, seeing details, adding to a cart, checking out, and making payment.
 #### <image src ="https://user-images.githubusercontent.com/28535677/120091286-a09bd180-c0d7-11eb-82aa-8a3b4ba55316.png" width="20px"/> Technologies used React,Redux, Nodejs, Stripe API and MongoDB and Project is still in development 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###  Toronto-rental
-#### - is a capstone project developed within 10 days for graduation project when attendind full-stack web development at brain Station. It is a real state search website used to search house or room for rent. The house owners can also upload images and details of house or room they want to rent.
+#### - is a capstone project developed within 10 days for graduation project when attending full-stack web development at brain Station. It is a real state search website used to search houses or rooms for rent. The house owners can also upload images and the details of house or room they want to rent.
 ####  <image src ="https://user-images.githubusercontent.com/28535677/120091286-a09bd180-c0d7-11eb-82aa-8a3b4ba55316.png" width="20px"/> Technologies used: React, Nodejs, MySQL, SASS, Knex and Bookshelf
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## BrainFlix 
 #### - is a SPA( single page application) streaming website which is similar to  youtube. 
 #### <image src ="https://user-images.githubusercontent.com/28535677/120091286-a09bd180-c0d7-11eb-82aa-8a3b4ba55316.png" width="20px"/>  Technologies used: React and Nodejs
+
+### Library
+#### -is a final project done for Relational Database course at NTUST. It is done to show proficiency in CRUD in MySQL and PHP. It has Admin and Public Site. Admin users can add books and articles based on categories. Users can read the book in the browser or can download it in pdf format.
+####  <image src ="https://user-images.githubusercontent.com/28535677/120091286-a09bd180-c0d7-11eb-82aa-8a3b4ba55316.png" width="20px"/> Technologies used: HTML, CSS, PHP and MySQL
+
 
 ### :leafy_green: :small_airplane: l Feel free to see browse my code. Thanks for your time!! :leafy_green: :small_airplane:
 
